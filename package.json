@@ -24,7 +24,6 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/followers-list": "file:./screens/followers-list/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
-    "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/onboarding": "file:./screens/onboarding/",

@@ -64,7 +64,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [payments]()
 - [screen-invite-friends](screens/invite-friends)
-- [screen-getting-started](screens/getting-started)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-followers-list](screens/followers-list)
 - [screen-contact-us](screens/contact-us)
