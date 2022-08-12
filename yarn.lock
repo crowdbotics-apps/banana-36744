@@ -1321,7 +1321,10 @@
 "@screens/my-jobs-candidate-view@file:./screens/my-jobs-candidate-view":
   version "1.0.0"
 
-"@screens/post-edit-job@file:./screens/post-edit-job/":
+"@screens/notifications@file:./screens/notifications/":
+  version "1.0.0"
+
+"@screens/post-edit-job@file:./screens/post-edit-job":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
