@@ -1330,7 +1330,10 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
-"@screens/signup@file:./screens/signup/":
+"@screens/signup@file:./screens/signup":
+  version "1.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
