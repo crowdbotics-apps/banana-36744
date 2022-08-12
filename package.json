@@ -27,6 +27,7 @@
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/notifications": "file:./screens/notifications/",
+    "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/social-feed": "file:./screens/social-feed/",

@@ -1321,6 +1321,9 @@
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
+"@screens/onboarding@file:./screens/onboarding/":
+  version "1.0.0"
+
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 

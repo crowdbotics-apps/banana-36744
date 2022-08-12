@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signup](screens/signup)
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-social-feed](screens/social-feed)
+- [screen-onboarding](screens/onboarding)
 
 # Getting started: Frontend
 
