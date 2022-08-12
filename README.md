@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [payments]()
 - [screen-my-jobs-candidate-view](screens/my-jobs-candidate-view)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
