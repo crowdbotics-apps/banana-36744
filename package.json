@@ -30,6 +30,7 @@
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/post-edit-job": "file:./screens/post-edit-job/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
+    "@screens/signup": "file:./screens/signup/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
     "babel-plugin-import-glob": "^2.0.0",
