@@ -26,7 +26,6 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
-    "@screens/my-jobs-candidate-view": "file:./screens/my-jobs-candidate-view/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/post-edit-job": "file:./screens/post-edit-job/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",

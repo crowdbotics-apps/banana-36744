@@ -1318,9 +1318,6 @@
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
-"@screens/my-jobs-candidate-view@file:./screens/my-jobs-candidate-view":
-  version "1.0.0"
-
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
@@ -1333,7 +1330,7 @@
 "@screens/signup@file:./screens/signup":
   version "1.0.0"
 
-"@screens/social-feed@file:./screens/social-feed/":
+"@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
 "@screens/support-send-feedback@file:./screens/support-send-feedback":
