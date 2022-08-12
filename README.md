@@ -69,7 +69,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-followers-list](screens/followers-list)
 - [screen-contact-us](screens/contact-us)
 - [screen-create-post-2](screens/create-post-1)
-- [screen-post-edit-job](screens/post-edit-job)
 - [screen-notifications-list](screens/notifications)
 - [screen-signup](screens/signup)
 - [screen-support-send-feedback](screens/support-send-feedback)
