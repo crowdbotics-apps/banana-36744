@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [screen-my-jobs-candidate-view](screens/my-jobs-candidate-view)
 - [screen-invite-friends](screens/invite-friends)
+- [screen-getting-started](screens/getting-started)
 
 # Getting started: Frontend
 
