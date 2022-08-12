@@ -1303,7 +1303,7 @@
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
-"@screens/create-post-1@file:./screens/create-post-1/":
+"@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
 "@screens/followers-list@file:./screens/followers-list":
@@ -1319,6 +1319,9 @@
   version "1.0.0"
 
 "@screens/my-jobs-candidate-view@file:./screens/my-jobs-candidate-view":
+  version "1.0.0"
+
+"@screens/post-edit-job@file:./screens/post-edit-job/":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
