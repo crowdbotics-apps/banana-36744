@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [screen-rate-the-app](screens/rate-the-app)
 - [payments]()
+- [screen-my-jobs-candidate-view](screens/my-jobs-candidate-view)
 
 # Getting started: Frontend
 
