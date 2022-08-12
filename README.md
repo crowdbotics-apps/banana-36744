@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-getting-started](screens/getting-started)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-followers-list](screens/followers-list)
+- [screen-contact-us](screens/contact-us)
 
 # Getting started: Frontend
 

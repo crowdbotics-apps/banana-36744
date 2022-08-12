@@ -1300,7 +1300,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/followers-list@file:./screens/followers-list/":
+"@screens/contact-us@file:./screens/contact-us/":
+  version "1.0.0"
+
+"@screens/followers-list@file:./screens/followers-list":
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
