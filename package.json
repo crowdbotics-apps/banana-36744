@@ -31,6 +31,7 @@
     "@screens/post-edit-job": "file:./screens/post-edit-job/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
